@@ -12,4 +12,6 @@ class MainActivity : AppCompatActivity() {
     //text branch 1
 
     //New text
+
+    //some text 2
 }
