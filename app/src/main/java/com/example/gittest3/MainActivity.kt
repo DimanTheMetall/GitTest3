@@ -13,5 +13,4 @@ class MainActivity : AppCompatActivity() {
 
     //New text
 
-    //some text 2
 }
